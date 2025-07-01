@@ -2,10 +2,10 @@
 Project Title: Retail Sales Analysis
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
 Objectives <br>
-Set up a retail sales database: Create and populate a retail sales database with the provided sales data.<br>
-Data Cleaning: Identify and remove any records with missing or null values.<br>
-Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand the dataset.<br>
-Business Analysis: Use SQL to answer specific business questions and derive insights from the sales data.<br>
+1. Set up a retail sales database: Create and populate a retail sales database with the provided sales data.<br>
+2. Data Cleaning: Identify and remove any records with missing or null values.<br>
+3. Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand the dataset.<br>
+4. Business Analysis: Use SQL to answer specific business questions and derive insights from the sales data.<br>
 Project Structure<br>
 1. Database Setup <br>
 Database Creation: The project starts by creating a database named p1_retail_db.<br>
@@ -18,16 +18,16 @@ Null Value Check: Check for any null values in the dataset and delete records wi
 3. Data Analysis & Findings<br>
 The following SQL queries were developed to answer specific business questions:<br>
 
-Write a SQL query to retrieve all columns for sales made on '2022-11-05<br>
-Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov-2022:<br>
-Write a SQL query to calculate the total sales (total_sale) for each category. <br>
-Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.<br>
-Write a SQL query to find all transactions where the total_sale is greater than 1000.<br>
-Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category <br>
-Write a SQL query to calculate the average sale for each month. Find out best selling month in each year <br>
-Write a SQL query to calculate the average sale for each month. Find out best selling month in each year <br>
-Write a SQL query to find the number of unique customers who purchased items from each category. <br>
-Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17) <br>
+1. Write a SQL query to retrieve all columns for sales made on '2022-11-05<br>
+2. Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov-2022:<br>
+3. Write a SQL query to calculate the total sales (total_sale) for each category. <br>
+4. Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.<br>
+5. Write a SQL query to find all transactions where the total_sale is greater than 1000.<br>
+6. Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category <br>
+7. Write a SQL query to calculate the average sale for each month. Find out best selling month in each year <br>
+8.Write a SQL query to calculate the average sale for each month. Find out best selling month in each year <br>
+9.Write a SQL query to find the number of unique customers who purchased items from each category. <br>
+10.Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17) <br>
 
 Findings
 Customer Demographics: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty. <br>
